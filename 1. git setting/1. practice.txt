@@ -1,0 +1,14 @@
+aaaaaaaaa
+
+폴더에 VScode를 이용해서 터미널에 git init
+
+git add pratice.txt
+git commit -m '메모'
+
+2개는
+git commit practice.txt practice2.txt
+
+git status
+git add .
+
+git log --all --online
