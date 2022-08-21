@@ -11,4 +11,5 @@ git commit practice.txt practice2.txt
 git status
 git add .
 
+# 다 올리는 건.
 git log --all --online
