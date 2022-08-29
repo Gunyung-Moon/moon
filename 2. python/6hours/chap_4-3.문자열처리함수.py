@@ -7,7 +7,7 @@ print(python.replace("Python","Java"))
 
 # index == 찾기
 
-index = python.index("n") 
+index = python.index("n")
 print(index)
 
 index = python.index("n", index +1) #index의 시작값이 1부터 (기본값은 = 0)
